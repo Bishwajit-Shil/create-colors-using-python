@@ -1,5 +1,6 @@
 
 # Create Colors using python code
+<img src="Screenshot from 2024-04-13 21-14-22.png">
 ##### RGB Color Picker using OpenCV
 
 This script creates a graphical user interface (GUI) using OpenCV for selecting RGB color values using trackbars.
